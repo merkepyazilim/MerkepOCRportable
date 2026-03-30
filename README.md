@@ -1,4 +1,4 @@
-# MerkepOCRportable
+# MerkepOCR Portable
 MerkepOCR uygulamasının bilgisayarda katılımsız olarak çalıştırılmasını sağlayan uygulama dosyalarını bu sayfada bulabilirsiniz.
 
 
@@ -9,3 +9,6 @@ MerkepOCR uygulamasının bilgisayarda katılımsız olarak çalıştırılması
 3) MerkepOCR dosyası bilgisayarınızın "indirilenler" klasörüne kaydolur.
 
 # Nasıl Kullanacaksınız?
+1) Kurulum gerektirmez
+2) Bilgisayarınıza indirilen dosyası istediğiniz konuma taşıyın.
+3) Taşıdığınız dosyayı arşivden çıkarın (.zip dosyasından çıkarın)
