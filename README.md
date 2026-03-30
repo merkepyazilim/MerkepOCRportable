@@ -1,0 +1,2 @@
+# MerkepOCRportable
+MerkepOCR uygulamasının bilgisayarda katılımsız olarak çalıştırılmasını sağlayan uygulama dosyaları
